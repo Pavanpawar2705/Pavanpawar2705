@@ -1,7 +1,7 @@
 <h1> Bytes and Insights: Navigating the Data Engineering Universe 🌌 </h1>
 
 
-**🔭 Check out -> <a href="https://codebasics.io/portfolio/Pavan-Pawar"><b>Portfolio Website</b> </a>**<br>
+**🔭 Check out -> <a href="https://www.linkedin.com/in/pavan-pawar/"><b>Linkedin</b> </a>**<br>
 **🌱 I’m currently learning Big Data Technologies**
 <br>
 <br>
@@ -14,6 +14,7 @@
 <code><a href=""><img height="50" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-ar21.svg"></a></code>
 <code><a href=""><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></a></code>
 <code><a href=""><img height="50" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg"></a></code>
+<code><a href=""><img height="50" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></a></code>
 <br>
 <br>
 <br>
